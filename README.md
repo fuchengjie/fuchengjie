@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fuchengjie
-- 👀 I’m interested in classic books, writing
+- 👀 I’m interested in C++, Java
 - 🌱 I’m currently learning Qt
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fu-chengjie@foxmail.com
