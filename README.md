@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++, Java
 - 🌱 I’m currently learning Qt
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me fu-chengjie@foxmail.com
+- 📫 How to reach me fuchengjiekid@gmail.com
 
 <!---
 fuchengjie/fuchengjie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
