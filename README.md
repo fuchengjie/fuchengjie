@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++, Java
 - 🌱 I’m currently learning Qt
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me fuchengjie@
+- 📫 How to reach me fuchengjie5075@icloud.com
 
 I'm in Chengdu, Sichuan Province, China.
 
