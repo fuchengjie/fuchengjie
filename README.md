@@ -8,7 +8,7 @@ I'm in Chengdu, Sichuan Province, China.
 
 Master degree in Computer technology.
 
-And looking for a better job.
+And looking for a good job.
 
 <!---
 fuchengjie/fuchengjie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
