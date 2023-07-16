@@ -2,13 +2,13 @@
 - 👀 I’m interested in C++, Java
 - 🌱 I’m currently learning Qt
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me fuchengjie5075@icloud.com
+- 📫 How to reach me 811827136@qq.com
 
 I'm in Chengdu, Sichuan Province, China.
 
 Master degree in Computer technology.
 
-And looking for a good job.
+And working in sctel.
 
 <!---
 fuchengjie/fuchengjie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
